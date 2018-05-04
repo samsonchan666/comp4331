@@ -1,6 +1,6 @@
-Assignment for comp4331
-ass1: Frequent itemset mining
-	- apriori
+Assignment for comp4331\n
+ass1: Frequent itemset mining\n
+	- apriori\n
 	- fp-tree
 	- recursive elimination
 ass2: Classification 
